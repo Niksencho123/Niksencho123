@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Niksencho123
+- 👀 I’m interested in Machine Learning and Web Development
+- 🌱 I’m currently learning Python, Javascript, HTML and CSS
+- 💞️ I’m looking to collaborate on project!
